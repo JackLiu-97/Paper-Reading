@@ -7,3 +7,4 @@
 
 | Priority | Paper | Venue/Year | Paper URL | GitHub/Code | Tags | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
+| P0 | Generative Agents: Interactive Simulacra of Human Behavior | UIST 2023 | [Paper](https://arxiv.org/pdf/2304.03442) | [Reference Code](https://github.com/joonspk-research/generative_agents) | generative-agents, multi-agent, simulation, planning, reflection, large-language-model | [notes](./notes/generative-agents-interactive-simulacra-of-human-behavior/) |
