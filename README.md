@@ -23,8 +23,8 @@
 |   |   |-- README.md
 |   |   |-- notes/
 |-- resources/
-|   |-- datasets/                       # 跨方向可复用数据集索引
-|   |-- metrics/                        # 跨方向可复用评价指标索引
+|   |-- datasets/                       # 数据集索引
+|   |-- metrics/                        # 评价指标索引
 ```
 
 ## 使用方式
