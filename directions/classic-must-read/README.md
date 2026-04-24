@@ -8,3 +8,4 @@
 | Priority | Paper | Venue/Year | Paper URL | GitHub/Code | Tags | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | P0 | Attention Is All You Need | NeurIPS 2017 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | [Reference Code](https://github.com/tensorflow/tensor2tensor) | transformer, attention, sequence-modeling | [notes](./notes/attention-is-all-you-need/) |
+| P0 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NAACL 2019 | [Paper](https://aclanthology.org/N19-1423.pdf) | [Reference Code](https://github.com/google-research/bert) | BERT, transformer, Pre-trained Language Model, NLP | [notes](./notes/BERT-pre-training-of-deep-bidirectional-transformers-for-language-understanding/) |
